@@ -19,6 +19,7 @@ I'm a full stack developer with 3 years industrial experience developing system 
 ### Additional Languages / Protocols implemented with limited profficiency:
 - JavaScript
 - Wordpress
+- Mobile Frameworks (Flutter)
 
 ### Additinal Technical Skills:
 - 3D Product Design & Modelling (FreeCad) for Injection Moulding Applications and 3D Printing.
