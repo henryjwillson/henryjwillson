@@ -1,8 +1,9 @@
-Hello! 👋 
+# Hello there! I'm Henry and Welcome to my Github 👋 
 
-I'm a full stack developer with 3 years industrial experience. I have lead the complete development of the Bean Drop platform. 
+## About me
+I'm a full stack developer with 3 years industrial experience developing system architectures, customer and business facing solutions. I have lead the complete development of the Bean Drop platform aswell as it's electronics design and architecture. I am a product and material science engineer with a Masters Degree in Chemical Engineering with 6 yeards of industial experience.
 
-Languages / Protocols:
+### Languages / Protocols:
 - Python
 - SQL (MySQL, PostgeSQL, SQLite)
 - C++ (Micro-controllers / Arduino)
@@ -14,9 +15,16 @@ Languages / Protocols:
 - Linux, Windows
 - Pandas, Numpy, Matplotlib
 
-Additional Languages / Protocols implemented with limited profficiency:
+
+### Additional Languages / Protocols implemented with limited profficiency:
 - JavaScript
 - Wordpress
+
+### Additinal Technical Skills:
+- 3D Product Design & Modelling (FreeCad) for Injection Moulding Applications and 3D Printing.
+- FDM Printing and Slicing (including post processing)
+- Electronic System Architecture Design
+- PCB Design
 
 #
 - 👋 Hi, I’m @henryjwillson
