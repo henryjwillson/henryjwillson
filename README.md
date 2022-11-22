@@ -1,7 +1,7 @@
 # Hello there! I'm Henry and Welcome to my Github 👋 
 
 ## About me
-I'm a full stack developer with 3 years industrial experience developing system architectures, customer and business facing solutions. I have lead the complete development of the Bean Drop platform aswell as it's electronics design and architecture. I am a product and material science engineer with a Masters Degree in Chemical Engineering with 6 yeards of industial experience.
+I'm a full stack developer with 3 years industrial experience developing system architectures, customer and business facing solutions. I have lead the complete development of the Bean Drop platform aswell as it's electronics design and architecture. I am a product and material science engineer with a Masters Degree in Chemical Engineering with 6 years of industial experience.
 
 ### Languages / Protocols:
 - Python
