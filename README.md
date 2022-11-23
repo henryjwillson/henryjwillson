@@ -27,7 +27,9 @@ I'm a full stack developer with 3 years industrial experience developing system 
 - Electronic System Architecture Design
 - PCB Design
 
-#
+# About my Github
+All repositories presented have been put together soley for Bean Drop Ltd; due to commercial sensitivity, a number of repositories have had sections removed. The hidden sections are noted in each repository, and in their absence, video footage of working segments has been provided. I am happy to discuss the architecture of these hidden sections with recruiters.
+
 - 👋 Hi, I’m @henryjwillson
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
