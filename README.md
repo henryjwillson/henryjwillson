@@ -4,7 +4,7 @@
 I'm a full stack developer with 3 years industrial experience developing system architectures, customer and business facing solutions and a product and material science engineer with a Masters Degree in Chemical Engineering with 5 years of industial experience. I have lead the complete development of Bean Drop Ltd's platform aswell as it's electronics design and architecture.
 
 ## About my Github
-All repositories presented have been put together soley for Bean Drop Ltd; due to commercial sensitivity, a number of repositories have had sections removed. The hidden sections are noted in each repository, and in their absence, video footage of working segments has been provided. I am happy to discuss the architecture of these hidden sections with recruiters.
+A number of repositories presented have been put together soley for Bean Drop Ltd; due to commercial sensitivity, some have had sections removed. The hidden sections are noted in each repository, and in their absence, video footage of working segments has been provided. I am happy to discuss the architecture of these hidden sections with recruiters.
 
 ### Languages / Protocols:
 - Python
