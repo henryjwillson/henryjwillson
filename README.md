@@ -10,7 +10,7 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 - bean_drop_overview - *A brief overview of Bean Drop and how each repository is linked.*
 - [bean_drop_point_of_sale](https://github.com/henryjwillson/bean_drop_point_of_sale) - *A business facing user interface for scanning cups and processing customer orders as part of the Bean Drop System.*
 - [bean_drop_django_website](https://github.com/henryjwillson/bean_drop_django_website) - *A customer facing website for Bean Drop Ltd; built on the Django platoform with integrated e-commerce solutions.*
-- bean_drop_processing_center - *An internal business user interface for conducting database and daily operations within the Bean Drop Process Cycle.*
+- [bean_drop_processing_center](https://github.com/henryjwillson/bean_drop_processing_centre) - *An internal business user interface for conducting database and daily operations within the Bean Drop Process Cycle.*
 
 ### Languages / Protocols:
 - Python
