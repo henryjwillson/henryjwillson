@@ -36,14 +36,6 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 - Electronic System Architecture Design
 - PCB Design
 
-
-#
-- 👋 Hi, I’m @henryjwillson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 henryjwillson/henryjwillson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
