@@ -1,7 +1,7 @@
-# Hello there! I'm Henry and welcome to my Github 👋 
+# Chief Technology Officer | Building platforms that optimise landfill methane extraction | Hardware + Cloud + Data Algorithms | 
 
 ## About me
-I'm a full stack developer with 3 years industrial experience developing system architectures, customer and business facing solutions and a product and material science engineer with a Masters Degree in Chemical Engineering with 5 years of industial experience. I have lead the complete development of Bean Drop Ltd's platform aswell as it's electronics design and architecture.
+I turn engineering vision into operational reality with reliable, scalable execution. Combining hands-on architecture with team leadership, I deliver measurable outcomes at pace. Currently the Chief Technology Officer at Hydryx transforming the Landfill Emissions technology market by developing AI driven optimisation of methane extraction through IoT devices networked across landfills. Previously Chief Technology Officer at Drone Defence Ltd, leading the deployment of hardware and software solutions globally for UAS detection, tracking and identification and independently lead the successful development of the Bean Drop product ecosystem, delivering bespoke hardware and software solutions for businesses and customers. Internationally experienced with rolls in the UK and Europe; culturally aware with effective communication skills.
 
 ## About my Github
 A number of repositories presented have been put together soley for Bean Drop Ltd; due to commercial sensitivity, some have had sections removed. The hidden sections are noted in each repository, and in their absence, video footage of working segments has been provided. I am happy to discuss the architecture of these hidden sections with recruiters.
