@@ -19,16 +19,18 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 - SQL (MySQL, PostgeSQL, SQLite)
 - C++ (Micro-controllers / Arduino)
 - MQTT
-- Stripe E-commerce
 - HTML & CSS
 - Django Framework
 - NFC Communication
 - Linux, Windows
 - Pandas, Numpy, Matplotlib
+- Algorithm development
+- Stripe E-commerce
 
 
 ### Additional Languages / Protocols implemented with limited profficiency:
 - JavaScript
+- React
 - Wordpress
 - Mobile Frameworks (Flutter)
 
@@ -37,6 +39,7 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 - FDM Printing and Slicing (including post processing)
 - Electronic System Architecture Design
 - PCB Design
+- Electronic system diagnosis
 
 <!---
 henryjwillson/henryjwillson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
