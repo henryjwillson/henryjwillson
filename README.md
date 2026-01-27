@@ -35,8 +35,8 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 - Mobile Frameworks (Flutter)
 
 ### Additional Technical Skills:
-- 3D Product Design & Modelling (FreeCad) for Injection Moulding Applications and 3D Printing.
-- FDM Printing and Slicing (including post processing)
+- 3D Product Design & Modelling (OnShape, SolidWorks, FreeCAD) for Injection Moulding Applications and 3D Printing.
+- FDM, SLA and MJF commercial product printing and slicing (including post processing)
 - Electronic System Architecture Design
 - PCB Design
 - Electronic system diagnosis
