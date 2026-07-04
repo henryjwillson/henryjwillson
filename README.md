@@ -18,6 +18,8 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 - Python
 - SQL (MySQL, PostgeSQL, SQLite)
 - C++ (Micro-controllers / Arduino)
+- JavaScript
+- React
 - MQTT
 - HTML & CSS
 - Django Framework
@@ -29,8 +31,6 @@ A number of repositories presented have been put together soley for Bean Drop Lt
 
 
 ### Additional Languages / Protocols implemented with limited profficiency:
-- JavaScript
-- React
 - Wordpress
 - Mobile Frameworks (Flutter)
 
